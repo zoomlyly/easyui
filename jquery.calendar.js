@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * jQuery EasyUI 1.4.4
  * 
@@ -17,6 +18,17 @@ var jQuery=require('jquery');
  * To use it on other terms please contact us: info@jeasyui.com
  *
  */
+=======
+/**
+ * jQuery EasyUI 1.4.4
+ * 
+ * Copyright (c) 2009-2015 www.jeasyui.com. All rights reserved.
+ *
+ * Licensed under the freeware license: http://www.jeasyui.com/license_freeware.php
+ * To use it on other terms please contact us: info@jeasyui.com
+ *
+ */
+>>>>>>> 2271f714f225075298c397dffc4ecb325c62b2ae
 (function($){
 function _1(_2,_3){
 var _4=$.data(_2,"calendar").options;

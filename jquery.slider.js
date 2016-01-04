@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /**
  * jQuery EasyUI 1.4.4
  * 
@@ -10,6 +11,8 @@
  */
 var jQuery=require('jquery');
 =======
+=======
+>>>>>>> 2271f714f225075298c397dffc4ecb325c62b2ae
 /**
  * jQuery EasyUI 1.4.4
  * 
@@ -19,6 +22,9 @@ var jQuery=require('jquery');
  * To use it on other terms please contact us: info@jeasyui.com
  *
  */
+<<<<<<< HEAD
+>>>>>>> 2271f714f225075298c397dffc4ecb325c62b2ae
+=======
 >>>>>>> 2271f714f225075298c397dffc4ecb325c62b2ae
 (function($){
 function _1(_2){
