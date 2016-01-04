@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/waylau/jquery-easyui.git",
+    "version": "1.4.4",
+    "description": "easyui",
+    "dependencies": [
+        "jquery@>=1.6"
+    ],
+    "name": "easyui"
+}
